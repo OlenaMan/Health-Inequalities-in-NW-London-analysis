@@ -2,6 +2,8 @@
 
 ![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
 
+![health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
+
 ## Overview
 
 This project analyses health inequalities across North West London (NWL) boroughs, with a focus on:
