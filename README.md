@@ -4,21 +4,21 @@
 ### Overal Inequality by Borough 
 ![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
 
-Higher inequality observed in Hounslow, Brent, and Hammersmith & Fulham.
+#### Higher inequality observed in Hounslow, Brent, and Hammersmith & Fulham.
 
 ---
 
 ### Outcomes vs Determinents 
 ![Health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
 
-Different borougs show distict drivers of inequlaity.
+#### Different borougs show distict drivers of inequlaity.
 
 ---
 
 ### Inequality vs Black Population Share 
 ![Inequality_vs_black_population_share_nwl](./outputs/inequality_vs_black_population_share_nwl.png)
 
-Strongest overlap between inequlaity and Black population share in Brent.
+#### Strongest overlap between inequlaity and Black population share in Brent.
 
 ---
 
