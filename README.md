@@ -1,5 +1,7 @@
 # North West London Health Inequalities Analysis
 
+![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
+
 ## Overview
 
 This project analyses health inequalities across North West London (NWL) boroughs, with a focus on:
@@ -16,9 +18,6 @@ The aim is to build a **data-driven evidence base** to support decision-making f
 * NHS Integrated Care Board (ICB) partners
 
 ---
-
-![Inequality Overview](./outputs/inequality_plot.png)
-
 
 ## Key Insights
 
