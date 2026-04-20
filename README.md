@@ -17,6 +17,9 @@ The aim is to build a **data-driven evidence base** to support decision-making f
 
 ---
 
+![Inequality Overview](./outputs/inequality_plot.png)
+
+
 ## Key Insights
 
 * Health inequalities vary significantly across NWL boroughs
