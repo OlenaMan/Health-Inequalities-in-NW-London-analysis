@@ -2,7 +2,10 @@
 
 ![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
 
-![health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
+![Health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
+
+![Inequality_vs_black_population_share_nwl](./outputs/inequality_vs_black_population_share_nwl.png)
+
 
 ## Overview
 
