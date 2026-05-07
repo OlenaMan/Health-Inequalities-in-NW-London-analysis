@@ -1,24 +1,26 @@
 # North West London Health Inequalities Analysis
 
 ## Key Insights in plots 
-### Overal Inequality by Borough 
+### Comparison of Health Inequality by Borough 
+#### Higher inequality observed in Hounslow, Brent, and Hammersmith & Fulham.
 ![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
 
-#### Higher inequality observed in Hounslow, Brent, and Hammersmith & Fulham.
+
 
 ---
 
-### Outcomes vs Determinents 
+### Health Outcomes vs Determinents 
+#### Different borougs show distinct drivers of inequlaity.
 ![Health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
 
-#### Different borougs show distict drivers of inequlaity.
+
 
 ---
 
-### Inequality vs Black Population Share 
+### Health Inequality vs Black Population Share 
+#### Strongest overlap between inequlaity and Black population share in Brent.
 ![Inequality_vs_black_population_share_nwl](./outputs/inequality_vs_black_population_share_nwl.png)
 
-#### Strongest overlap between inequlaity and Black population share in Brent.
 
 ---
 
@@ -35,11 +37,11 @@ The aim is to build a **data-driven evidence base** to support decision-making f
 
 * Third Sector Together (3ST)
 * VCSE organisations
-* NHS Integrated Care Board (ICB) partners
+* NHS Integrated Care Board (ICB) and partners
 
 ---
 
-## Key Insights
+## Key Insights and Recommendations
 
 * Health inequalities vary significantly across NWL boroughs
 * Different boroughs are driven by different mechanisms:
@@ -55,9 +57,7 @@ The aim is to build a **data-driven evidence base** to support decision-making f
   * high Black population share
 * Emerging risks are identified in boroughs such as Harrow
 
----
-
-## Borough Prioritisation
+## Borough Prioritisation typology as a framework for preventive interventions 
 
 The analysis produces an actionable borough typology:
 
