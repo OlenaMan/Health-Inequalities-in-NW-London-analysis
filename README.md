@@ -5,15 +5,17 @@
 #### Higher inequality observed in Hounslow, Brent, and Hammersmith & Fulham.
 ![Overall Inequality Score by Borough](./outputs/overall_inequality_by_borough.png)
 
-
-
 ---
 
 ### Health Outcomes vs Determinents 
 #### Different borougs show distinct drivers of inequlaity.
 ![Health_outcomes_vs_determinents](./outputs/health_outcomes_vs_determinents.png)
 
+---
 
+## Inequality Trends by Borough
+### Inequality across NW London is not static. While several high-burden boroughs show improvement, new areas of inequality are emerging, highlighting the need for both sustained intervention and proactive monitoring.
+![Inequality Trends](./outputs/inequality_trend_by_borough.png)
 
 ---
 ## NW London Borough Inequality Typology
