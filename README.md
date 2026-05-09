@@ -16,10 +16,20 @@
 
 
 ---
+## NW London Borough Inequality Typology
 
-### Health Inequality vs Black Population Share 
-#### Strongest overlap between inequlaity and Black population share in Brent.
-![Inequality_vs_black_population_share_nwl](./outputs/inequality_vs_black_population_share_nwl.png)
+The table below summarises borough-level inequality typologies derived from combined health outcomes, prevention indicators, population structure, and service-access patterns across North West London.
+
+| Borough | Borough Typology | Recommended Action | Inequality Score | Preventive Inequality Score | Black Population Share | Trend Change |
+|---|---|---|---:|---:|---:|---:|
+| Harrow | Emerging risk | Early intervention and close monitoring | -0.196 | 0.282 | 0.073 | 0.806 |
+| Hammersmith and Fulham | High priority: equity + prevention | Targeted outreach, VCSE partnership, prevention | 0.131 | 0.150 | 0.123 | -0.955 |
+| Brent | High priority: equity + prevention | Targeted outreach, VCSE partnership, prevention | 0.114 | 0.267 | 0.175 | -1.958 |
+| Ealing | High priority: equity + prevention | Targeted outreach, VCSE partnership, prevention | 0.034 | 0.064 | 0.108 | -1.005 |
+| Westminster | High priority: outcomes/access | Improve access, pathways, and service responsiveness | 0.009 | -0.454 | 0.081 | -0.684 |
+| Hounslow | High priority: prevention | Strengthen early intervention and prevention | 0.147 | 0.154 | 0.072 | -0.691 |
+| Hillingdon | Lower burden / monitor | Maintain performance and monitor | -0.033 | -0.107 | 0.078 | -0.414 |
+| Kensington and Chelsea | Lower burden / monitor | Maintain performance and monitor | -0.247 | -0.357 | 0.079 | 0.055 |
 
 
 ---
