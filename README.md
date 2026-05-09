@@ -22,6 +22,13 @@
 
 The table below summarises borough-level inequality typologies derived from combined health outcomes, prevention indicators, population structure, and service-access patterns across North West London.
 
+### Interpretation
+
+- Higher inequality scores indicate greater overall inequality burden.
+- Preventive inequality score reflects upstream prevention-related risk factors.
+- Trend change reflects directional movement over time.
+- Recommended actions were generated from borough typology clustering and inequality patterns.
+
 | Borough | Borough Typology | Recommended Action | Inequality Score | Preventive Inequality Score | Black Population Share | Trend Change |
 |---|---|---|---:|---:|---:|---:|
 | Harrow | Emerging risk | Early intervention and close monitoring | -0.196 | 0.282 | 0.073 | 0.806 |
@@ -32,7 +39,6 @@ The table below summarises borough-level inequality typologies derived from comb
 | Hounslow | High priority: prevention | Strengthen early intervention and prevention | 0.147 | 0.154 | 0.072 | -0.691 |
 | Hillingdon | Lower burden / monitor | Maintain performance and monitor | -0.033 | -0.107 | 0.078 | -0.414 |
 | Kensington and Chelsea | Lower burden / monitor | Maintain performance and monitor | -0.247 | -0.357 | 0.079 | 0.055 |
-
 
 ---
 
