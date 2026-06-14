@@ -271,3 +271,38 @@ The table below summarises borough-level inequality typologies derived from comb
 | Kensington and Chelsea | Lower burden / monitor | Maintain performance and monitor | -0.247 | -0.357 | 0.079 | 0.055 |
 
 ---
+
+# Final Notes
+
+This project is an iterative project. The part I demonstrated is Phase 1 and I am now working on Phase 3 where I look at more granular geography - from borough level to ward and LSOA level - to provide a more targeted intervention planning.
+
+This project demonstrates an end-to-end data workflow rather than just health analysis. I identified and ingested data from more than 30 sources, standardised and harmonised them into a common analytical structure, and developed a modelling framework to support evidence-based decision making.
+
+### Transferrable skills
+
+The same skills are directly transferable to commercial environments because the core challenge - integrating fragmented data and turning it into actionable insight - is common across healthcare, finance, retail and the public sector.
+
+Retail:
+- Combine customer, transaction and loyalty data
+- Identify drivers of churn
+- Improve customer retention
+
+Financial Services:
+- Combine customer, product and risk data
+- Detect high-risk segments
+- Improve risk management
+
+Public Sector:
+- Combine demographic, service usage and deprivation data
+- Prioritise communities needing support
+
+### To improve the project further:
+
+- The current project was designed as an analytical research framework. In a production environment, I would convert notebook logic into modular Python scripts orchestrated through an automated pipeline.
+
+- I would also automate the code by placing it on Databricks, and programme Notebook run nightly so outputs arte updated continuously.
+
+- I would focus on predictive modelling to identify emerging inequality risks before outcomes deteriorate.
+
+
+
