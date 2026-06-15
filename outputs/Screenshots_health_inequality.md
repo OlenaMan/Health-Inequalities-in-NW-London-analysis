@@ -274,13 +274,16 @@ The table below summarises borough-level inequality typologies derived from comb
 
 # Final Notes
 
-This project is an iterative project. The part I demonstrated is Phase 1 and I am now working on Phase 3 where I look at more granular geography - from borough level to ward and LSOA level - to provide a more targeted intervention planning.
+Iterative project narure - 3 phases so far.
+- Phase 1: identify determinents and drivers across NW London
+- Phase 2: borough level health ineaquality differentiators
+- Phase 3: more granular geography - ward and LSOA level - to provide a more targeted intervention planning.
 
 This project demonstrates an end-to-end data workflow rather than just health analysis. I identified and ingested data from more than 30 sources, standardised and harmonised them into a common analytical structure, and developed a modelling framework to support evidence-based decision making.
 
 ### Transferrable skills
 
-The same skills are directly transferable to commercial environments because the core challenge - integrating fragmented data and turning it into actionable insight - is common across healthcare, finance, retail and the public sector.
+Skills like - integrating fragmented data and turning it into actionable insight - is common across healthcare, finance, retail and the public sector.
 
 Retail:
 - Combine customer, transaction and loyalty data
@@ -296,13 +299,13 @@ Public Sector:
 - Combine demographic, service usage and deprivation data
 - Prioritise communities needing support
 
-### To improve the project further:
+### Project imnprovements:
 
-- The current project was designed as an analytical research framework. In a production environment, I would convert notebook logic into modular Python scripts orchestrated through an automated pipeline.
+- From notebook logic to modular Python scripts and automated pipeline
 
-- I would also automate the code by placing it on Databricks, and programme Notebook run nightly so outputs arte updated continuously.
+- Using Databricks, programme Notebook run nightly so outputs arte updated continuously
 
-- I would focus on predictive modelling to identify emerging inequality risks before outcomes deteriorate.
+- Predictive modelling to identify emerging inequality risks before health outcomes deteriorate.
 
 
 
